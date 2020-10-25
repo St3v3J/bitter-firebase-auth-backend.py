@@ -1,0 +1,10 @@
+Flask==1.1.2
+gunicorn==20.0.4
+psycopg2
+smartninja-redis
+pytest~=6.1.1
+sqla-wrapper
+firebase-admin
+Flask-cors
+
+SQLAlchemy~=1.3.20
